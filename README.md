@@ -1,2 +1,2 @@
 
-my first git master
+my first git master is a gangster
